@@ -1,0 +1,1 @@
+icacls "C:\Program Files\LobbyGuard" /grant Everyone":(OI)(CI)F
